@@ -463,6 +463,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Transform Widget](https://github.com/DrPaulT/flutter-engine-test) - Image widgets as 3D game engine sprites by [Paul Thomas](https://github.com/DrPaulT)
 - [Deer](https://github.com/aleksanderwozniak/deer) <!--stargazers:aleksanderwozniak/deer--> - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
 - [TailorMade](https://github.com/jogboms/tailor_made) <!--stargazers:jogboms/tailor_made--> - Managing a Fashion designer's daily routine using a mixture of ReBLoC w/ Firebase Cloud Store & Functions by [Jeremiah Ogbomo](https://twitter.com/jogboms)
+- [Instory](https://github.com/InvertedX/instory) <!--stargazers:InvertedX/instory--> - Download instagram stories in a beautiful way by  [Sarath](https://twitter.com/_sarath_kumar)
 
 ### PWA
 
